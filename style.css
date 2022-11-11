@@ -3,3 +3,22 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  width: 50%;
+  margin: auto;
+  text-align:center;
+}
+nav > a {
+  padding: 10px 10px;
+  background-color:grey;
+  margin: auto;
+}
+figcaption {
+  text-align:center;
+}
+figure > img {
+  margin:auto;
+}
+figure {
+  text-align: center;
+}
